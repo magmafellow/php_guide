@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+  "files.autoSave": "onFocusChange",
+  "files.autoSaveWhenNoErrors": false,
+  "html.format.enable": false,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  }
+}
