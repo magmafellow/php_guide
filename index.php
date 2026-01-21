@@ -1,3 +1,3 @@
 <?php
-$active = true;
-?>
+
+$is_active = true;
