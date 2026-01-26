@@ -1,6 +1,6 @@
 <?php
-
 const BR = '<br />';
+
 $db_server = 'localhost';
 $db_user = 'root';
 $db_password = '';
